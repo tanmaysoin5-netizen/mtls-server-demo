@@ -1,0 +1,12 @@
+{
+  "name": "mtls-server-demo",
+  "version": "1.0.0",
+  "description": "Practical-10",
+  "main": "index.js",
+  "scripts": {
+    "test": "node mtls-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
